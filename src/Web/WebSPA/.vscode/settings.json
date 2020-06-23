@@ -1,0 +1,14 @@
+{
+  "spellright.language": [
+    "es"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext"
+  ],
+  "cSpell.enabled": false,
+  "cSpell.enableFiletypes": [
+    "javascriptreact"
+  ]
+}

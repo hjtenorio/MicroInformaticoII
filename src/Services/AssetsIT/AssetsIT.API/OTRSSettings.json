@@ -1,0 +1,23 @@
+{
+  "StolenAlertTicketTitle": "Robo del equipo",
+  "TicketTypeIncidence": "Incidencia",
+  "TicketTypeRequeriment": "Requerimiento",
+  "StoleAlertTicketEmailSubject": "Microinformático - Ticket creado Nro.",
+  
+  "TicketPriorityLow": "bajo",
+  "TicketStateNew": "nuevo",
+
+  "TicketArticleSubjectNoRenew": "Devolución de equipo por cese: ",
+  "TicketArticleSubjectUpdate": "Actualización del ticket: nueva descripción o archivos adjuntos. ",
+
+  "AssetDeploymentStateStolen": "Robado",
+
+  "UserStaffTerminationNotification": "Microinformático - Colaboradores prontos a cesar",
+  "UserStaffTerminationNotificationToAdministrator": "Microinformático - Estado de envío de correos a jefes por cese.",
+  "UserStaffTerminationNotRenewNotificationToAdministrator": "Microinformático - Estado de generación de ticket por cese.",
+
+  "StolenAlertQueueName": "OTRS",
+  "AssetReturnQueueName": "OTRS",
+  "TicketIncidenceQueueName":  "OTRS"
+
+}
